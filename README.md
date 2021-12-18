@@ -1,6 +1,5 @@
 # CrazyTown 
-
-# Crazytown is a game in which cars are guided by the player to houses of the same color as the cars.
+<h8> Crazytown is a game in which cars are guided by the player to houses of the same color as the cars.</h8>
 
 # There is minimum one car and maximum ten.
 # The cars can turn right or left. If the car receives no mouse input (a mouse click) before an intersection, it continues going straight.
