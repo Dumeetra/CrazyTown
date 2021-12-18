@@ -7,7 +7,7 @@
 > - Horizotal drive: turn down - press the right button
 > - Vertical drive: turn left - press the left button
 > - Vertical drive: turn right - press the right button
-##### There are 10 levels. The player chooses a level and enters it at the console. The player also chooses the speed at the console.  
+##### There are 10 levels. The player chooses a level and enters the number at the console. The player also chooses the speed at the console.  
 ##### Cars will stop, and so will the game, after a frontal collision.
 
 ### Instructions for building/running the project:
