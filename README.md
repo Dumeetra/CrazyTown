@@ -8,6 +8,7 @@
 > - Vertical drive: turn left - press the left button
 > - Vertical drive: turn right - press the right button
 ##### There are 10 levels. The player chooses a level and enters the number at the console. 
+##### The game starts when the play button is pressed.
 ##### Cars will stop, and so will the game, after a frontal collision.
 
 ### Instructions for building/running the project:
