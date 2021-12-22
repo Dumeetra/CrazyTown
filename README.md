@@ -23,3 +23,11 @@
 ##### There are 8 *.cpp files declared in CMakeLists.txt
 ##### All classes except cTexture, are declared in main.cpp
 ##### Class cTexture is the base class to all classes that require rendering that is: cCar[i], cHouse[i], cStreet, cButton.
+
+### 5 Criteria
+
+> - The project demonstrates an understanding of C++ functions and control structures.
+> - The project accepts user input and processes the input.
+> - The project uses Object Oriented Programming techniques.
+> - Classes use appropriate access specifiers for class members.
+> - Class constructors utilize member initialization lists.
