@@ -28,11 +28,11 @@ and may not be redistributed without written permission.*/
 inline void collisions(cCar x, cCar y, cButton z){
 if (abs(x.getx() - y.getx()) == 0 && abs(x.gety() - y.gety()) == 25) {
 	std::cout << "You lose\n";
-	system("PAUSE");
+	getchar();
 	}
 	if (abs(x.getx() - y.getx()) == 25 && abs(x.gety() - y.gety()) == 0) {
 		std::cout << "You lose\n";
-		system("PAUSE");
+		getchar();
 	}
 }
 int main(int argc, char* args[])
