@@ -14,6 +14,7 @@
 ### Instructions for building/running the project:
 ##### cd CrazyTown
 ##### cd build
+##### sudo apt-get install libsdl2-image-dev
 ##### cmake ..
 ##### make
 ##### ./CrazyTown
