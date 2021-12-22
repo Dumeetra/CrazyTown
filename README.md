@@ -12,7 +12,7 @@
 ##### Cars will stop, and so will the game, after a frontal collision.
 
 ### Instructions for building/running the project:
-##### mkdir build
+##### cd CrazyTown
 ##### cd build
 ##### cmake ..
 ##### make
