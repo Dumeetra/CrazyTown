@@ -17,3 +17,9 @@
 ##### cmake ..
 ##### make
 ##### ./CrazyTown
+
+###File and class structure:
+The 42 pngs must be in a build folder.
+There are 8 *.cpp files declared in CMakeLists.txt
+All classes are declared in main.cpp
+Class cTexture is the base class to all class that require rendering that is: cCar[i]
