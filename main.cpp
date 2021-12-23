@@ -106,7 +106,7 @@ int main(int argc, char* args[])
 				if (button1.getrun()) {
 
 					for (int i = 0; i < level; i++) {
-						std::this_thread::sleep_for(std::chrono::milliseconds(11-level));//delay that decreases with increasing levels
+						std::this_thread::sleep_for(std::chrono::milliseconds(21-2*level));//delay that decreases with increasing levels
 						//set positions of cars
 						car[i].setx();
 						car[i].sety();
